@@ -15,12 +15,12 @@
 - ContentResolver
 
 ## Установка
-1. apk файл можно найти и скачать в папке \apk или или же по [ссылке]([app\build\outputs\apk\androidTest\debug](https://github.com/MarmulevSemyon/contacts-app/blob/master/apk/ContactApp.apk))
+1. apk файл можно найти и скачать в папке \apk или или же по [ссылке](https://github.com/MarmulevSemyon/contacts-app/blob/master/apk/ContactApp.apk)
 
 ## Разрешения
 Приложение запрашивает:
-    *Чтение контактов
-    *Совершение звонков
+    * Чтение контактов
+    * Совершение звонков
 
 ## Разработчик
 - Мармулев Семён [сылка на github]()
